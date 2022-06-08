@@ -1,0 +1,15 @@
+D:\C#\Myproject\Ex2Lab03\bin\Debug\net6.0\Ex2Lab03.exe
+D:\C#\Myproject\Ex2Lab03\bin\Debug\net6.0\Ex2Lab03.deps.json
+D:\C#\Myproject\Ex2Lab03\bin\Debug\net6.0\Ex2Lab03.runtimeconfig.json
+D:\C#\Myproject\Ex2Lab03\bin\Debug\net6.0\Ex2Lab03.dll
+D:\C#\Myproject\Ex2Lab03\bin\Debug\net6.0\Ex2Lab03.pdb
+D:\C#\Myproject\Ex2Lab03\obj\Debug\net6.0\Ex2Lab03.csproj.AssemblyReference.cache
+D:\C#\Myproject\Ex2Lab03\obj\Debug\net6.0\Ex2Lab03.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Myproject\Ex2Lab03\obj\Debug\net6.0\Ex2Lab03.AssemblyInfoInputs.cache
+D:\C#\Myproject\Ex2Lab03\obj\Debug\net6.0\Ex2Lab03.AssemblyInfo.cs
+D:\C#\Myproject\Ex2Lab03\obj\Debug\net6.0\Ex2Lab03.csproj.CoreCompileInputs.cache
+D:\C#\Myproject\Ex2Lab03\obj\Debug\net6.0\Ex2Lab03.dll
+D:\C#\Myproject\Ex2Lab03\obj\Debug\net6.0\refint\Ex2Lab03.dll
+D:\C#\Myproject\Ex2Lab03\obj\Debug\net6.0\Ex2Lab03.pdb
+D:\C#\Myproject\Ex2Lab03\obj\Debug\net6.0\Ex2Lab03.genruntimeconfig.cache
+D:\C#\Myproject\Ex2Lab03\obj\Debug\net6.0\ref\Ex2Lab03.dll

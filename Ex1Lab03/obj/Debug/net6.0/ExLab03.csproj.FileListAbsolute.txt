@@ -1,0 +1,15 @@
+D:\C#\Myproject\Car\bin\Debug\net6.0\ExLab03.exe
+D:\C#\Myproject\Car\bin\Debug\net6.0\ExLab03.deps.json
+D:\C#\Myproject\Car\bin\Debug\net6.0\ExLab03.runtimeconfig.json
+D:\C#\Myproject\Car\bin\Debug\net6.0\ExLab03.dll
+D:\C#\Myproject\Car\bin\Debug\net6.0\ExLab03.pdb
+D:\C#\Myproject\Car\obj\Debug\net6.0\ExLab03.csproj.AssemblyReference.cache
+D:\C#\Myproject\Car\obj\Debug\net6.0\ExLab03.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Myproject\Car\obj\Debug\net6.0\ExLab03.AssemblyInfoInputs.cache
+D:\C#\Myproject\Car\obj\Debug\net6.0\ExLab03.AssemblyInfo.cs
+D:\C#\Myproject\Car\obj\Debug\net6.0\ExLab03.csproj.CoreCompileInputs.cache
+D:\C#\Myproject\Car\obj\Debug\net6.0\ExLab03.dll
+D:\C#\Myproject\Car\obj\Debug\net6.0\refint\ExLab03.dll
+D:\C#\Myproject\Car\obj\Debug\net6.0\ExLab03.pdb
+D:\C#\Myproject\Car\obj\Debug\net6.0\ExLab03.genruntimeconfig.cache
+D:\C#\Myproject\Car\obj\Debug\net6.0\ref\ExLab03.dll
