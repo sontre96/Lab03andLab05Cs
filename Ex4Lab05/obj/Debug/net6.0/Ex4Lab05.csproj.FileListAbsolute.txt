@@ -1,0 +1,15 @@
+D:\C#\Myproject\Ex4Lab05\bin\Debug\net6.0\Ex4Lab05.exe
+D:\C#\Myproject\Ex4Lab05\bin\Debug\net6.0\Ex4Lab05.deps.json
+D:\C#\Myproject\Ex4Lab05\bin\Debug\net6.0\Ex4Lab05.runtimeconfig.json
+D:\C#\Myproject\Ex4Lab05\bin\Debug\net6.0\Ex4Lab05.dll
+D:\C#\Myproject\Ex4Lab05\bin\Debug\net6.0\Ex4Lab05.pdb
+D:\C#\Myproject\Ex4Lab05\obj\Debug\net6.0\Ex4Lab05.csproj.AssemblyReference.cache
+D:\C#\Myproject\Ex4Lab05\obj\Debug\net6.0\Ex4Lab05.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Myproject\Ex4Lab05\obj\Debug\net6.0\Ex4Lab05.AssemblyInfoInputs.cache
+D:\C#\Myproject\Ex4Lab05\obj\Debug\net6.0\Ex4Lab05.AssemblyInfo.cs
+D:\C#\Myproject\Ex4Lab05\obj\Debug\net6.0\Ex4Lab05.csproj.CoreCompileInputs.cache
+D:\C#\Myproject\Ex4Lab05\obj\Debug\net6.0\Ex4Lab05.dll
+D:\C#\Myproject\Ex4Lab05\obj\Debug\net6.0\refint\Ex4Lab05.dll
+D:\C#\Myproject\Ex4Lab05\obj\Debug\net6.0\Ex4Lab05.pdb
+D:\C#\Myproject\Ex4Lab05\obj\Debug\net6.0\Ex4Lab05.genruntimeconfig.cache
+D:\C#\Myproject\Ex4Lab05\obj\Debug\net6.0\ref\Ex4Lab05.dll
